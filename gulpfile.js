@@ -10,7 +10,7 @@ gulp.task('build:css', function(){
 });
 
 gulp.task('build:js', function(){
-  gulp.src("src/js/*.js")
+  gulp.src("src/js/*.js");
 });
 
 gulp.task('default', function(){
