@@ -1,5 +1,5 @@
 {
-  "name": "JustAsk admin panel",
+  "name": "AdminPanel",
   "version": "0.0.1",
   "description": "Justask amdin library",
   "author": "Sanjiv Jha",
@@ -9,6 +9,7 @@
     "gulp-babel": "^5.1.0",
     "gulp-browserify": "*",
     "gulp-concat": "*",
+    "gulp-less": "^3.0.3",
     "react": "*",
     "reactify": "*"
   },
