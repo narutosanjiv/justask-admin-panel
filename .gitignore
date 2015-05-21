@@ -2,7 +2,7 @@
 /node_modules
 /*.swp
 /justask
-
+/app
 # Logs
 logs
 *.log
